@@ -1,0 +1,30 @@
+/****************************************************************NAVEGADOR*/
+.navegador{
+    /* background-color: rgb(45, 55, 98); */
+    padding-top: 3vh;
+    padding-bottom: 3vh;
+}.navegador a{
+    color: black;
+}
+/****************************************************************SOBRE MI*/
+.my-photo{
+    background-color: yellow;
+    border-radius: 50%;
+    height: 50vh;
+    width: 50vh;
+    background-image: url("components/img/yago.jpeg");
+    background-size: cover;
+    margin: 0 auto;
+}
+.about-me{
+    text-align: center;
+}
+.my-description{
+    text-align: justify;
+    padding-left: 50vh;
+    padding-right: 50vh;
+}
+/****************************************************************SKILLS*/
+.skills{
+    text-align: center;
+}
